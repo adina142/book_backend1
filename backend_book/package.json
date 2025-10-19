@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Backend for project deployed on Vercel",
   "main": "api/index.js",
+
   "scripts": {
-    "start": "node api/index.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
